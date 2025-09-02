@@ -1,0 +1,131 @@
+.brown-dark-theme * {
+	color: #fef7ed !important;
+	stroke: #a16207 !important;
+}
+
+.brown-dark-theme .app > * {
+	background-color: #451a03 !important;
+}
+
+.brown-dark-theme #nav {
+	background-color: #292524;
+}
+
+.brown-dark-theme .py-2\.5.my-auto.flex.flex-col.justify-between.h-screen {
+	background: #292524;
+}
+
+.brown-dark-theme .bg-white.dark\:bg-gray-800 {
+	background: #78716c;
+}
+
+.brown-dark-theme .w-4.h-4 {
+	fill: #d97706;
+}
+
+.brown-dark-theme #chat-input {
+	background: #a8a29e;
+	margin: 0.3rem;
+	padding: 0.5rem;
+}
+
+.brown-dark-theme .bg-gradient-to-t.from-white.dark\:from-gray-800.from-40\%.pb-2 {
+	background: #78716c !important;
+	padding-top: 0.6rem;
+}
+
+.brown-dark-theme
+	.text-white.bg-gray-100.dark\:text-gray-800.dark\:bg-gray-600.disabled.transition.rounded-lg.p-1.mr-0\.5.w-7.h-7.self-center {
+	background-color: #d6d3d1;
+	transition: background-color 0.2s ease-out linear;
+}
+
+.brown-dark-theme
+	.bg-black.text-white.hover\:bg-gray-900.dark\:bg-white.dark\:text-black.dark\:hover\:bg-gray-100.transition.rounded-lg.p-1.mr-0\.5.w-7.h-7.self-center {
+	background-color: #a16207;
+	transition: background-color 0.2s ease-out linear;
+}
+
+.brown-dark-theme
+	.bg-black.text-white.hover\:bg-gray-900.dark\:bg-white.dark\:text-black.dark\:hover\:bg-gray-100.transition.rounded-lg.p-1.mr-0\.5.w-7.h-7.self-center
+	> * {
+	fill: #fef7ed !important;
+	transition: fill 0.2s ease-out linear;
+}
+
+.brown-dark-theme
+	.w-full.flex.justify-between.rounded-md.px-3.py-2.hover\:bg-gray-900.bg-gray-900.transition.whitespace-nowrap.text-ellipsis {
+	background-color: #ca8a04;
+	font-weight: bold;
+}
+
+.brown-dark-theme .hover\:bg-gray-900:hover {
+	--tw-bg-opacity: 1;
+	background-color: rgb(161 98 7 / var(--tw-bg-opacity));
+}
+
+.brown-dark-theme .text-xs.text-gray-700.uppercase.bg-gray-50.dark\:bg-gray-700.dark\:text-gray-400 {
+	background-color: #a8a29e;
+}
+
+.brown-dark-theme .scrollbar-hidden.relative.overflow-x-auto.whitespace-nowrap.svelte-3g4avz {
+	border-radius: 16px 16px 0 0;
+}
+
+.brown-dark-theme .base.enter.svelte-ug60r4 {
+	background-color: #a8a29e;
+}
+
+.brown-dark-theme .message.svelte-1nauejd {
+	color: #fef7ed !important;
+}
+
+.brown-dark-theme #dropdownDots {
+	background-color: #a8a29e;
+}
+
+.brown-dark-theme .flex.py-2\.5.px-3\.5.w-full.hover\:bg-gray-800.transition:hover {
+	background: #a16207;
+}
+
+.brown-dark-theme .m-auto.rounded-xl.max-w-full.w-\[40rem\].mx-2.bg-gray-50.dark\:bg-gray-900.shadow-3xl {
+	background-color: #78716c;
+}
+
+.brown-dark-theme
+	.w-full.rounded.p-4.text-sm.dark\:text-gray-300.dark\:bg-gray-800.outline-none.resize-none {
+	background-color: #a16207;
+}
+
+.brown-dark-theme
+	.w-full.rounded.py-2.px-4.text-sm.dark\:text-gray-300.dark\:bg-gray-800.outline-none.svelte-1vx7r9s {
+	background-color: #a16207;
+}
+
+.brown-dark-theme
+	.px-2\.5.py-2\.5.min-w-fit.rounded-lg.flex-1.md\:flex-none.flex.text-right.transition.bg-gray-200.dark\:bg-gray-700 {
+	background-color: #a8a29e;
+}
+
+.brown-dark-theme
+	.px-2\.5.py-2\.5.min-w-fit.rounded-lg.flex-1.md\:flex-none.flex.text-right.transition.hover\:bg-gray-300.dark\:hover\:bg-gray-800:hover {
+	background-color: #a16207;
+}
+
+.brown-dark-theme .px-4.py-2.bg-emerald-600.hover\:bg-emerald-700.text-gray-100.transition.rounded {
+	background-color: #ca8a04;
+}
+
+.brown-dark-theme #chat-search > * {
+	background-color: #a8a29e !important;
+}
+
+.brown-dark-theme .svelte-1ee93ns {
+	--primary: #ca8a04 !important;
+	--secondary: #fef7ed !important;
+}
+
+.brown-dark-theme .svelte-11kvm4p {
+	--primary: #d97706 !important;
+	--secondary: #451a03 !important;
+}
